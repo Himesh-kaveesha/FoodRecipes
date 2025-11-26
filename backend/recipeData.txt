@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Chicken Curry",
+    "ingredients": ["chicken", "oil", "garlic", "onion"],
+    "instructions": "Heat oil, sauté garlic and onions, add chicken, cook until brown, add spices, simmer until tender.",
+    "time": "30min"
+  },
+  {
+    "title": "Vegetable Fried Rice",
+    "ingredients": ["rice", "carrot", "peas", "egg", "soy sauce"],
+    "instructions": "Cook rice, stir-fry vegetables, add beaten egg, mix with rice and soy sauce, fry for 5 minutes.",
+    "time": "20min"
+  },
+  {
+    "title": "Beef Stir Fry",
+    "ingredients": ["beef", "capsicum", "soy sauce", "garlic", "oil"],
+    "instructions": "Slice beef thinly, stir-fry with garlic, add vegetables and soy sauce, cook on high for 10 minutes.",
+    "time": "25min"
+  },
+  {
+    "title": "Tomato Pasta",
+    "ingredients": ["pasta", "tomato", "garlic", "olive oil", "salt"],
+    "instructions": "Boil pasta, make tomato sauce with garlic and oil, mix pasta into sauce and cook for 2 minutes.",
+    "time": "15min"
+  },
+  {
+    "title": "Omelette",
+    "ingredients": ["eggs", "salt", "pepper", "onion", "butter"],
+    "instructions": "Beat eggs with salt and pepper, cook onions in butter, pour egg mixture, fold and serve.",
+    "time": "10min"
+  },
+  {
+    "title": "Grilled Cheese Sandwich",
+    "ingredients": ["bread", "cheese", "butter"],
+    "instructions": "Butter bread slices, place cheese between them, grill until both sides are golden brown.",
+    "time": "5min"
+  },
+  {
+    "title": "Fish Curry",
+    "ingredients": ["fish", "coconut milk", "chilies", "onion", "garlic"],
+    "instructions": "Fry onions and garlic, add spices and coconut milk, add fish and simmer until cooked.",
+    "time": "35min"
+  },
+  {
+    "title": "Potato Salad",
+    "ingredients": ["potatoes", "mayonnaise", "onion", "pepper", "salt"],
+    "instructions": "Boil potatoes, chop them, mix with mayo, onion, salt, and pepper.",
+    "time": "15min"
+  },
+  {
+    "title": "Garlic Noodles",
+    "ingredients": ["noodles", "garlic", "butter", "soy sauce"],
+    "instructions": "Boil noodles, sauté garlic in butter, add soy sauce, mix noodles and stir well.",
+    "time": "10min"
+  },
+  {
+    "title": "Banana Smoothie",
+    "ingredients": ["banana", "milk", "sugar", "ice"],
+    "instructions": "Blend all ingredients until smooth and creamy.",
+    "time": "3min"
+  }
+]
