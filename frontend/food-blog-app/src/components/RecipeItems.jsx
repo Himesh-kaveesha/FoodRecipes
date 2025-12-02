@@ -23,7 +23,7 @@ function RecipeItems() {
                                     </div>
 
                                     <div className='icons'>
-                                        <LuClock4 /> {item.time} min
+                                        <LuClock4 /> {item.time} 
                                         <FaHeart />
                                     </div>
                                 </div>

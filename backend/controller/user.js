@@ -27,7 +27,7 @@ const userSignUp = async (req, res) => {
         { expiresIn: "1h" }
     );
 
-    return res.status(200).json({ token, newUser });
+    return res.status(200).json({ token, user:newUser });
 };
 
 const userLogin = async (req, res) => {
